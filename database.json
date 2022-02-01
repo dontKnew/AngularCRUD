@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 12,
+      "name": "Rahul Khan",
+      "address": "rahul",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": 14,
+      "name": "Sajid Ali",
+      "address": "london",
+      "email": "sajid123.sa@gmail.com"
+    },
+    {
+      "id": 15,
+      "name": "Kamina Khan",
+      "address": "samalkha",
+      "email": "kamina@gmail.com"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
